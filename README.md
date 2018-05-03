@@ -2,7 +2,7 @@
 
 This is a code repository for the SIB - Swiss Institute of Bioinformatics CALIPHO group neXtProt project
 
-See: http://www.nextprot.org/
+See: https://www.nextprot.org/
 
 # neXtProt javascript client
 
@@ -11,7 +11,7 @@ See: http://www.nextprot.org/
 
 Javascript client for neXtProt
 
-This module contains methods to access the neXtProt API (https://api.nextprot.org) as well as the SPARQL endpoint (http://snorql.nextprot.org). 
+This module contains methods to access the neXtProt API (https://api.nextprot.org) as well as the SPARQL endpoint (https://snorql.nextprot.org). 
 
 
 ## Getting Started
